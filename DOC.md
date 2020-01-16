@@ -14,9 +14,9 @@ hollo ~~markdown~~刪除線
 
 ---
 
-<https://googlecom>
+<https://google.com>
 
-[google](https://googlecom)
+[google](https://google.com)
 
 ---
 
