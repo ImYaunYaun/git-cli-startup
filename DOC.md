@@ -11,3 +11,13 @@ hollo ***marldown***斜粗體
 hollo *markdown*斜體  
 hollo __markdown__  
 hollo ~~markdown~~刪除線  
+
+---
+
+<https://googlecom>
+
+[google](https://googlecom)
+
+---
+
+Hollo `markdown`
